@@ -1,0 +1,3 @@
+//Another way to define a class is by using a class expression. Here, it is not mandatory to assign the name of the class. 
+//So, the class expression can be named or unnamed. The class expression allows us to fetch the class name. 
+//However, this will not be possible with class declaration.

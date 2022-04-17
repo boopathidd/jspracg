@@ -1,0 +1,4 @@
+//JavaScript String split()
+//As the name implies, the split() method in JavaScript splits the string into the array of substrings, puts these substrings into an array, and returns the new array. It does not change the original string.
+
+//When the string is empty, rather than returning an empty array, the split() method returns the array with an empty string. The empty array is returned when both string and separator are empty strings.

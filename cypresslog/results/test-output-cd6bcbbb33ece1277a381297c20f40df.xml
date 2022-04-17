@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0000" tests="1" failures="0" skipped="1">
+  <testsuite name="Root Suite" timestamp="2021-09-25T17:20:09" tests="0" file="cypress/integration/smoke/testcase_one.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="TC001_Login to leaftaps " timestamp="2021-09-25T17:20:15" tests="1" time="0.0000" failures="0">
+  </testsuite>
+</testsuites>

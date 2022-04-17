@@ -1,0 +1,2 @@
+"ui-test-runner": ".\\node_modules\\.bin\\cypress open",
+    "ui-headless-runner": ".\\node_modules\\.bin\\cypress run --env allure=true ",

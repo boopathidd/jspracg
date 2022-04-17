@@ -1,0 +1,1 @@
+xcopy .\env-qa.js .\env-active.js /y /v /q

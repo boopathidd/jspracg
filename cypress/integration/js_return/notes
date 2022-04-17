@@ -1,0 +1,6 @@
+JavaScript return
+The return statement is used to return a particular value from the function to the function caller. The function will stop executing when the return statement is called. The return statement should be the last statement in a function because the code after the return statement will be unreachable.
+
+We can return primitive values (such as Boolean, number, string, etc.) and Object types (such as functions, objects, arrays, etc.) by using the return statement.
+
+We can also return multiple values using the return statement. It cannot be done directly. We have to use an Array or Object to return multiple values from a function.

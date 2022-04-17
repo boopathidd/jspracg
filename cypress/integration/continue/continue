@@ -1,0 +1,6 @@
+JavaScript continue statement
+There is full control to handle loop statements in JavaScript. Sometimes, a situation occurs when we require to skip some code of the loop and move to the next iteration. It can be achieved by using JavaScript's continue statement.
+
+The continue statement in JavaScript is used to jumps over an iteration of the loop. Unlike the break statement, the continue statement breaks the current iteration and continues the execution of next iteration of the loop. It can be used in for loop, while loop, and do-while loop. When it is used in a while loop, then it jumps back to the condition. If it is used in for loop, the flow moves to the update expression.
+
+When we apply the continue statement, the program's flow immediately moves to the conditional expression, and if the condition is true, then the next iteration will be started; otherwise, the control exits the loop.

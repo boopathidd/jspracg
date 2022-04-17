@@ -1,0 +1,16 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cucumberautocomplete.steps": [
+        "PageObjectModel/cypress/integration/*/*.js"
+
+
+    ],
+    "cucumberautocomplete.syncfeatures": "PageObjectModel/cypress/integration/*.feature",
+    "cucumberautocomplete.strictGherkinCompletion": false,
+    "cucumberautocomplete.smartSnippets": true,
+    "cucumberautocomplete.stepsInvariants": true,
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.gotoLocation.alternativeImplementationCommand": "editor.action.peekDefinition",
+    "editor.gotoLocation.alternativeReferenceCommand": "editor.action.peekDefinition"
+    
+    }

@@ -1,0 +1,10 @@
+JavaScript Object.values() Method
+The Object.values() returns an array which contains the given object's own enumerable property values, in the same order as that provided by a for...in loop.
+
+Syntax:
+Object.values(obj)  
+Parameter:
+obj: It is the object whose enumerable own property values are to be returned.
+
+Return value:
+This method returns an array of a given object's own enumerable property value.

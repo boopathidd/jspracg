@@ -1,0 +1,22 @@
+{
+  "chromeWebSecurity": true,
+  "pageLoadTimeout": 60000,
+  "defaultCommandTimeout": 10000,
+  "viewportWidth": 1280,
+  "viewportHeight": 720,
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "results/test-output-[hash].xml",
+    "toConsole": true
+  },
+  "video": false,
+  "screenshotsFolder": "cypress/screenshots",
+  "videosFolder": "cypress/videos",
+  "videoCompression": false,
+  "trashAssetsBeforeRuns": true,
+  "env":
+  {
+    "RETRIES": 0,
+    "allure": true
+  }
+}

@@ -1,0 +1,8 @@
+The JavaScript Set object is used to store the elements with unique values. The values can be of any type i.e. whether primitive values or object references.
+A set object uses the concept of keys internally.
+A set object cannot contain the duplicate values.
+A set object iterates its elements in insertion order.
+
+iterable - It represents an iterable object whose elements will be added to the new Set.
+
+
